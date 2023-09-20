@@ -1,6 +1,6 @@
 const config = {
   staticDirs: ['../public'],
-  stories: ["../src/components/**/storires.tsx"],
+  stories: ["../src/components/**/stories.tsx"],
   addons: [
     "@storybook/addon-essentials",
   ],
